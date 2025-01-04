@@ -1181,15 +1181,7 @@
     536: function (e, t) {
       function r(e) {
         let { config: t, src: r, width: n, quality: o } = e;
-        return (
-          t.path +
-          "?url=" +
-          encodeURIComponent(r) +
-          "&w=" +
-          n +
-          "&q=" +
-          (o || 75)
-        );
+        return r;
       }
       Object.defineProperty(t, "__esModule", { value: !0 }),
         Object.defineProperty(t, "default", {
