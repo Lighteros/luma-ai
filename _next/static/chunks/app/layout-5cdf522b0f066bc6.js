@@ -143,12 +143,12 @@
               },
               {
                 component: (0, a.jsx)(r.default, {
-                  href: "https://sorojins-organization.gitbook.io/luma-ai",
+                  href: "https://docs.lumaai.cc",
                   target: "_blank",
                   className: "flex items-center gap-2 opacity-100 ",
                   children: "Document",
                 }),
-                to: "https://sorojins-organization.gitbook.io/luma-ai",
+                to: "https://docs.lumaai.cc",
                 name: "Document",
               },
             ];
@@ -186,7 +186,7 @@
                           )
                         ),
                         (0, a.jsx)(r.default, {
-                          href: "https://luma-ai-app-dun.vercel.app/",
+                          href: "https://app.lumaai.cc",
                           className: (0, c.cn)(
                             N().className,
                             "ty-title rounded-full bg-cyan px-6 py-3 text-black text-nowrap"
@@ -281,7 +281,7 @@
                             )
                           ),
                           (0, a.jsx)(r.default, {
-                            href: "https://luma-ai-app-dun.vercel.app/",
+                            href: "https://app.lumaai.cc",
                             className: (0, c.cn)(
                               N().className,
                               "ty-title rounded-full bg-cyan px-6 py-3 text-black text-nowrap"

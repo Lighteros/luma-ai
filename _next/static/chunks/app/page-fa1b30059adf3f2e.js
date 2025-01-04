@@ -417,7 +417,7 @@
                         className:
                           "flex p-2 flex-col justify-center items-center gap-2 rounded-[12px] border border-white/[.32] w-fit",
                         children: (0, i.jsx)(n.default, {
-                          href: "https://sorojins-organization.gitbook.io/luma-ai",
+                          href: "https://docs.lumaai.cc",
                           target: "_blank",
                           className:
                             "flex px-8 py-4 z-40 text-black justify-center items-center gap-2 rounded-[8px] bg-foreground",
