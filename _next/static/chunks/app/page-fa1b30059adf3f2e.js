@@ -343,7 +343,7 @@
                     },
                     viewport: { once: !0 },
                     className: "ty-h5 text-cyan",
-                    children: "About Agnus Blockchain",
+                    children: "About Luma Blockchain",
                   }),
                   " ",
                   (0, i.jsxs)("div", {
@@ -393,7 +393,7 @@
                         viewport: { once: !0 },
                         className: "text-foreground/50 ty-subheading",
                         children:
-                          "Agnus Blockchain stands as a transformative force in the realm of decentralized solutions. Our cutting-edge platform is designed to reshape the narrative of trust and efficiency in the blockchain space, boasting a unique blend of Transparent Proof of Authority (PoA) and Practical Byzantine Fault Tolerance (PBFT) to deliver a scalable, trustworthy, and rapid transaction experience.",
+                          "Luma Blockchain stands as a transformative force in the realm of decentralized solutions. Our cutting-edge platform is designed to reshape the narrative of trust and efficiency in the blockchain space, boasting a unique blend of Transparent Proof of Authority (PoA) and Practical Byzantine Fault Tolerance (PBFT) to deliver a scalable, trustworthy, and rapid transaction experience.",
                       }),
                       (0, i.jsx)(l.E.div, {
                         initial: {
@@ -417,7 +417,7 @@
                         className:
                           "flex p-2 flex-col justify-center items-center gap-2 rounded-[12px] border border-white/[.32] w-fit",
                         children: (0, i.jsx)(n.default, {
-                          href: "/whitepaper.pdf",
+                          href: "https://sorojins-organization.gitbook.io/luma-ai",
                           target: "_blank",
                           className:
                             "flex px-8 py-4 z-40 text-black justify-center items-center gap-2 rounded-[8px] bg-foreground",
@@ -476,19 +476,19 @@
               }),
               (0, i.jsx)("p", {
                 className: "ty-h4 text-foreground",
-                children: "Join Agnus AI Community",
+                children: "Join Luma AI Community",
               }),
               (0, i.jsx)("div", {
                 className: "flex flex-wrap items-start gap-4",
                 children: [
                   {
                     icon: "/assets/connect-section/telegram.svg",
-                    href: "https://t.me/+uIB13pJOP5hkYTVl",
+                    href: "https://t.me/LumaAI_Erc20",
                     name: "Telegram",
                   },
                   {
                     icon: "/assets/footer/twitter.svg",
-                    href: "https://twitter.com/AgnusAIChain?fbclid=IwAR3XiBDNNpZ9YYY40YeNQEej815iR-Hklt8WUIaETU9lv_dF2w_M4cOrK3k",
+                    href: "https://twitter.com/LumaAI_Erc20",
                     name: "Twitter / X",
                   },
                 ].map((e, t) =>
@@ -612,7 +612,7 @@
                       viewport: { once: !0 },
                       className: "text-foreground/50 ty-subheading",
                       children:
-                        "By addressing scalability concerns, fortifying trust, ensuring rapid transactional speed, and proactively combating fraud, Agnus sets the stage for a new era in blockchain technology—a future where speed, trust, and decentralization harmoniously coexist.",
+                        "By addressing scalability concerns, fortifying trust, ensuring rapid transactional speed, and proactively combating fraud, Luma sets the stage for a new era in blockchain technology—a future where speed, trust, and decentralization harmoniously coexist.",
                     }),
                   ],
                 }),
@@ -622,7 +622,7 @@
                     {
                       title: "Synergy of Trust and Speed",
                       description:
-                        "Agnus strikes a balance between trust, speed, and decentralization.",
+                        "Luma strikes a balance between trust, speed, and decentralization.",
                       delay: 0.45,
                     },
                     {
@@ -712,9 +712,9 @@
         u = a(1657);
       t.default = () => {
         let e = [
-          { title: "Community Member", value: "2500+", delay: 0.65 },
-          { title: "TPS", value: "50,000", delay: 0.7 },
-          { title: "Block Time", value: "3 Sec", delay: 0.75 },
+          { title: "Total Supply", value: "1B", delay: 0.65 },
+          { title: "Tax", value: "0% Buy/Sell", delay: 0.7 },
+          { title: "Liquidity Pool", value: "LP Burnt", delay: 0.75 },
         ];
         return (0, i.jsxs)("section", {
           className: "flex min-h-[1024px] justify-center relative ",
@@ -768,7 +768,7 @@
                       "flex px-6 py-3 pb-2 justify-center items-center gap-2 rounded-full border border-cyan/50 bg-cyan/[.08]",
                     children: (0, i.jsx)("p", {
                       className: "text-cyan ty-subheading text-center",
-                      children: "Welcome to Agnus Blockchain",
+                      children: "Welcome to Luma Blockchain",
                     }),
                   }),
                   (0, i.jsxs)(n.E.p, {
@@ -849,7 +849,7 @@
                       "flex p-1 flex-col justify-center items-center gap-2 rounded-[12px] border border-cyan/[.32]",
                     children: (0, i.jsx)("a", {
                       target: "_blank",
-                      href: "https://t.me/AgnusAiPortal?fbclid=IwAR3tYR8mMwrXv25Om16asyy2hEXgDAkc-94dYKxKRJ53ONLYf3loAwwzVt4",
+                      href: "https://t.me/LumaAI_Erc20",
                       className:
                         "flex px-8 py-4 justify-center items-center gap-2 rounded-[8px] bg-[#00bfd4] text-black hover:opacity-75 duration-200",
                       children: (0, i.jsx)("p", {
@@ -1411,108 +1411,6 @@
                   }),
                 ],
               }),
-              (0, i.jsxs)("div", {
-                className: "flex flex-col justify-normal items-center gap-4",
-                children: [
-                  (0, i.jsx)(o.E.p, {
-                    initial: {
-                      opacity: 0.5,
-                      scale: 1.1,
-                      y: 30,
-                      filter: "blur(5px)",
-                    },
-                    transition: {
-                      delay: 0,
-                      duration: 0.2,
-                      type: "ease-in-out",
-                    },
-                    whileInView: {
-                      opacity: 1,
-                      scale: 1,
-                      y: 0,
-                      filter: "blur(0px)",
-                    },
-                    viewport: { once: !0 },
-                    className: (0, s.cn)(n().className, "ty-h5 text-cyan"),
-                    children: "Featured on",
-                  }),
-                  (0, i.jsx)("div", {
-                    className:
-                      "flex justify-center gap-10 max-w-[850px] mx-auto flex-wrap",
-                    children: [
-                      {
-                        image:
-                          "/assets/partners-section/featured-on/coinmarketcap.png",
-                        featuredName: "coinmarketcap",
-                        delay: 0.15,
-                      },
-                      {
-                        image:
-                          "/assets/partners-section/featured-on/uniswap.png",
-                        featuredName: "uniswap",
-                        delay: 0.25,
-                      },
-                      {
-                        image:
-                          "/assets/partners-section/featured-on/dexview.png",
-                        featuredName: "dexview",
-                        delay: 0.35,
-                      },
-                      {
-                        image:
-                          "/assets/partners-section/featured-on/coingecko.png",
-                        featuredName: "coingecko",
-                        delay: 0.45,
-                      },
-                      {
-                        image:
-                          "/assets/partners-section/featured-on/dextools.png",
-                        featuredName: "dextools",
-                        delay: 0.55,
-                      },
-                      {
-                        image:
-                          "/assets/partners-section/featured-on/binance.png",
-                        featuredName: "binance",
-                        delay: 0.65,
-                      },
-                    ].map((e, t) =>
-                      (0, i.jsx)(
-                        o.E.div,
-                        {
-                          initial: {
-                            opacity: 0.5,
-                            scale: 1.1,
-                            y: 30,
-                            filter: "blur(5px)",
-                          },
-                          transition: {
-                            delay: e.delay,
-                            duration: 0.2,
-                            type: "ease-in-out",
-                          },
-                          whileInView: {
-                            opacity: 1,
-                            scale: 1,
-                            y: 0,
-                            filter: "blur(0px)",
-                          },
-                          viewport: { once: !0 },
-                          className: "flex justify-center items-center",
-                          children: (0, i.jsx)(r.default, {
-                            src: e.image,
-                            width: 200,
-                            height: 200,
-                            alt: e.featuredName,
-                            className: "w-auto h-auto",
-                          }),
-                        },
-                        t
-                      )
-                    ),
-                  }),
-                ],
-              }),
             ],
           }),
         });
@@ -1557,7 +1455,7 @@
                   children: [
                     (0, i.jsx)("p", {
                       className: "text-cyan ty-h5",
-                      children: "Agnus Technology",
+                      children: "Luma Technology",
                     }),
                     (0, i.jsx)("p", {
                       className: "text-foreground text-3xl md:ty-h1",
@@ -1738,7 +1636,7 @@
                   children: [
                     {
                       label: "Blockchain Name",
-                      value: "Agnus Blockchain",
+                      value: "Luma Blockchain",
                       span: 2,
                       delay: 0.25,
                     },

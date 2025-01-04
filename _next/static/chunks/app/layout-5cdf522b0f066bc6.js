@@ -124,100 +124,32 @@
             t = (0, w.useRouter)(),
             s = [
               {
-                component: (0, a.jsxs)(r.default, {
-                  href: "https://forms.gle/TeHkNQRyjJrgqkg36",
-                  target: "_blank",
-                  rel: "noopener noreferrer",
-                  className: "flex items-center gap-2 opacity-100 ",
-                  children: [
-                    " ",
-                    "Developers",
-                    " ",
-                    (0, a.jsxs)("svg", {
-                      xmlns: "http://www.w3.org/2000/svg",
-                      width: "17",
-                      height: "16",
-                      viewBox: "0 0 17 16",
-                      fill: "none",
-                      children: [
-                        (0, a.jsx)("path", {
-                          d: "M8.54899 14.6667C12.2309 14.6667 15.2157 11.6819 15.2157 8C15.2157 4.3181 12.2309 1.33334 8.54899 1.33334C4.86709 1.33334 1.88232 4.3181 1.88232 8C1.88232 11.6819 4.86709 14.6667 8.54899 14.6667Z",
-                          stroke: "#FFFBF4",
-                          "stroke-opacity": "1",
-                          "stroke-linejoin": "round",
-                        }),
-                        (0, a.jsx)("path", {
-                          d: "M6.54883 10L10.3714 6.17742M7.21549 6H10.5488V9.33333",
-                          stroke: "#FFFBF4",
-                          "stroke-opacity": "1",
-                        }),
-                      ],
-                    }),
-                  ],
-                }),
-                to: "https://forms.gle/TeHkNQRyjJrgqkg36",
-                name: "Developer",
-              },
-              {
-                component: (0, a.jsxs)(r.default, {
-                  href: "https://beta.agnscan.com",
-                  target: "_blank",
-                  rel: "noopener noreferrer",
-                  className: "flex items-center gap-2 opacity-100 ",
-                  children: [
-                    "Explorer",
-                    " ",
-                    (0, a.jsxs)("svg", {
-                      xmlns: "http://www.w3.org/2000/svg",
-                      width: "17",
-                      height: "16",
-                      viewBox: "0 0 17 16",
-                      fill: "none",
-                      children: [
-                        (0, a.jsx)("path", {
-                          d: "M8.54899 14.6667C12.2309 14.6667 15.2157 11.6819 15.2157 8C15.2157 4.3181 12.2309 1.33334 8.54899 1.33334C4.86709 1.33334 1.88232 4.3181 1.88232 8C1.88232 11.6819 4.86709 14.6667 8.54899 14.6667Z",
-                          stroke: "#FFFBF4",
-                          "stroke-opacity": "1",
-                          "stroke-linejoin": "round",
-                        }),
-                        (0, a.jsx)("path", {
-                          d: "M6.54883 10L10.3714 6.17742M7.21549 6H10.5488V9.33333",
-                          stroke: "#FFFBF4",
-                          "stroke-opacity": "1",
-                        }),
-                      ],
-                    }),
-                  ],
-                }),
-                to: "https://beta.agnscan.com",
-                name: "Explorer",
-              },
-              {
                 component: (0, a.jsx)(r.default, {
-                  href: "/#partnership",
+                  href: "/",
                   className: "flex items-center gap-2 opacity-100 ",
-                  children: "Partnership",
+                  children: "Home",
                 }),
-                to: "/#partnership",
-                name: "Partnership",
-              },
-              {
-                component: (0, a.jsx)(r.default, {
-                  href: "/#news-and-blog",
-                  className: "flex items-center gap-2 opacity-100 ",
-                  children: "News & Blog",
-                }),
-                to: "/#news-and-blog",
-                name: "News & Blog",
+                to: "/",
+                name: "Home",
               },
               {
                 component: (0, a.jsx)(r.default, {
                   href: "/buy-agn",
                   className: "flex items-center gap-2 opacity-100 ",
-                  children: "Buy $AGN",
+                  children: "Buy $LUMA",
                 }),
                 to: "/buy-agn",
-                name: "Buy $AGN",
+                name: "Buy $LUMA",
+              },
+              {
+                component: (0, a.jsx)(r.default, {
+                  href: "https://sorojins-organization.gitbook.io/luma-ai",
+                  target: "_blank",
+                  className: "flex items-center gap-2 opacity-100 ",
+                  children: "Document",
+                }),
+                to: "https://sorojins-organization.gitbook.io/luma-ai",
+                name: "Document",
               },
             ];
           return (0, a.jsxs)("header", {
@@ -236,7 +168,7 @@
                         src: "/assets/header/logo.png",
                         width: 37,
                         height: 40,
-                        alt: "Agnus AI",
+                        alt: "Luma AI",
                       }),
                     }),
                     (0, a.jsxs)("ul", {
@@ -254,13 +186,13 @@
                           )
                         ),
                         (0, a.jsx)(r.default, {
-                          href: "https://beta.agnscan.com/test-faucet",
+                          href: "https://luma-ai-app-dun.vercel.app/",
                           className: (0, c.cn)(
                             N().className,
                             "ty-title rounded-full bg-cyan px-6 py-3 text-black text-nowrap"
                           ),
                           target: "_blank",
-                          children: "Claim Testnet Coin",
+                          children: "Launch App",
                         }),
                       ],
                     }),
@@ -284,11 +216,11 @@
                                 src: "/assets/header/logo.png",
                                 width: 37,
                                 height: 40,
-                                alt: "Agnus AI",
+                                alt: "Luma AI",
                               }),
                               (0, a.jsx)("p", {
                                 className: "text-foreground/90 text-left",
-                                children: "Agnus AI",
+                                children: "Luma AI",
                               }),
                             ],
                           }),
@@ -349,12 +281,12 @@
                             )
                           ),
                           (0, a.jsx)(r.default, {
-                            href: "https://beta.agnscan.com/test-faucet",
+                            href: "https://luma-ai-app-dun.vercel.app/",
                             className: (0, c.cn)(
                               N().className,
                               "ty-title rounded-full bg-cyan px-6 py-3 text-black text-nowrap"
                             ),
-                            children: "Claim Testnet Coin",
+                            children: "Launch App",
                           }),
                         ],
                       }),
