@@ -33,3 +33,7 @@
 .__className_a8f243 {
   font-family: __uncut_sans_a8f243, __uncut_sans_Fallback_a8f243;
 }
+
+.hide-first > :nth-child(1) {
+  display: none !important;
+}
