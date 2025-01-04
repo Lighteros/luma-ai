@@ -1,0 +1,35 @@
+@font-face {
+  font-family: __metropolis_630089;
+  src: url(/_next/static/media/95a97a83c412227e-s.p.otf) format("opentype");
+  font-display: swap;
+}
+@font-face {
+  font-family: __metropolis_Fallback_630089;
+  src: local("Arial");
+  ascent-override: 72.73%;
+  descent-override: 18.75%;
+  line-gap-override: 0%;
+  size-adjust: 109.31%;
+}
+.__className_630089 {
+  font-family: __metropolis_630089, __metropolis_Fallback_630089;
+}
+.__variable_630089 {
+  --font-metropolis: "__metropolis_630089", "__metropolis_Fallback_630089";
+}
+@font-face {
+  font-family: __uncut_sans_a8f243;
+  src: url(/_next/static/media/e6c3ae78bcfb20a8-s.p.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: __uncut_sans_Fallback_a8f243;
+  src: local("Arial");
+  ascent-override: 93.04%;
+  descent-override: 26.24%;
+  line-gap-override: 0%;
+  size-adjust: 104.79%;
+}
+.__className_a8f243 {
+  font-family: __uncut_sans_a8f243, __uncut_sans_Fallback_a8f243;
+}

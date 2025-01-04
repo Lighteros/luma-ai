@@ -1,0 +1,11 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="command-line">
+<path id="Vector" d="M3.33325 15.9999C3.33325 10.0288 3.33325 7.04324 5.18824 5.18824C7.04324 3.33325 10.0288 3.33325 15.9999 3.33325C21.971 3.33325 24.9566 3.33325 26.8117 5.18824C28.6666 7.04324 28.6666 10.0288 28.6666 15.9999C28.6666 21.971 28.6666 24.9566 26.8117 26.8117C24.9566 28.6666 21.971 28.6666 15.9999 28.6666C10.0288 28.6666 7.04324 28.6666 5.18824 26.8117C3.33325 24.9566 3.33325 21.971 3.33325 15.9999Z" stroke="#00D3E9" stroke-width="1.5"/>
+<path id="Vector_2" d="M3.33325 12H28.6666" stroke="#00D3E9" stroke-width="1.5" stroke-linejoin="round"/>
+<path id="Vector_3" d="M9.33301 8H9.34498" stroke="#00D3E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M14.6665 8H14.6785" stroke="#00D3E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M21.3333 17.3333L22.9686 18.7429C23.6562 19.3354 23.9999 19.6318 23.9999 19.9999C23.9999 20.3681 23.6562 20.6645 22.9686 21.257L21.3333 22.6666" stroke="#00D3E9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M10.6667 17.3333L9.03128 18.7429C8.34376 19.3354 8 19.6318 8 19.9999C8 20.3681 8.34376 20.6645 9.03128 21.257L10.6667 22.6666" stroke="#00D3E9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_7" d="M17.3334 16L14.6667 24" stroke="#00D3E9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
